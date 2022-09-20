@@ -11,10 +11,31 @@
 .price{
     color:rgb(209, 95, 114);
 }
-.buy-now-button{
-    background-color: rgb(253, 100, 126);
-    color:white;
+.buy-now{
+    background-color:rgb(235, 17, 90);
     border:none;
     border-radius:8px;
     padding:9px 25px;
-    cursor:pointer;
+    cursor: pointer;
+}
+
+.cat1,.cat2,.cat3{
+    margin-top:20px;
+    padding: 20px 60px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color:orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width:100px;
+}
