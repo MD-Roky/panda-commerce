@@ -39,3 +39,28 @@
 .catagories img{
     width:100px;
 }
+.card{
+    border:none;
+    border-radius:15px;
+    box-shadow:5px 5px 20px lightgrey;
+    margin:15px;
+}
+.card-footer{
+    background-color:white;
+    border:none;
+}
+
+.dog{
+    margin-top:30px;
+}
+#subscribe{
+    width:1105px;
+    height:300px;
+}
+#subscribe h6{
+    color:gray;
+}
+footer{
+    text-align: center;
+    margin-top:30px;
+}
